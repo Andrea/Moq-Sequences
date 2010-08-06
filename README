@@ -1,4 +1,4 @@
-Moq.Sequences allows you to enforce that methods are called in a specific sequence.
+ Moq.Sequences allows you to enforce that methods are called in a specific sequence.
 
 Features
 ========
